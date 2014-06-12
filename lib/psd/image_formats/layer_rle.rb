@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 class PSD
   module ImageFormat
     # Some method overrides for layer images.
